@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+#gallery {
+    /* Add styling for gallery section */
+}
+
+#tools {
+    /* Add styling for painting tools section */
+}
